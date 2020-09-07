@@ -1,0 +1,8 @@
+Propagation = Avg
+Budget = 2000
+MaxDepth = 74
+TotalGenerated = 1,653,446
+TotalExpanded = 1,301,963
+Time = 132.85 seconds
+Expanded/Second = 9,799
+Score = 440
